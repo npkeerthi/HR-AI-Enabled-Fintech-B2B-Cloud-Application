@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  color: #2D4250;
+}
+
+.App Buttons {
+  padding: 10px;
+  margin-top: 10px;
+
+}
+/* .Header {
+  font-size: large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: px;
+  padding: 10px;
+  text-align: left;
+} */
+
+.left{
+  text-align: left;
+}

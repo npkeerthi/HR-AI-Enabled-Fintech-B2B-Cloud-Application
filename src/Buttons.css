@@ -1,0 +1,17 @@
+.btn{
+    padding: 10px;
+    background-color: #283D4A;
+    height: auto;
+}
+
+.search {
+    background-color: white;
+    border-radius: 4px;
+}
+
+.refresh {
+    padding-top: 8px;
+    background-color: rgb(28, 121, 236);
+    border-radius: 4px;
+    color: white;
+}
